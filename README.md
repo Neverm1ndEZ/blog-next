@@ -1,4 +1,4 @@
-# Bharath Blog Project
+# Blog Project
 
 ## Get Started
 
